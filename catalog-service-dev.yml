@@ -4,5 +4,5 @@ server:
 info:
   app:
     name: catalog-service
-    description: Catalog Service
+    description: Catalog Service Parcial Backend
     version: 1.0.0
